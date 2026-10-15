@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Anonymizer
+Comment=One-click anonymization (Tor routing, MAC spoof, status)
+Exec=bash -c '/home/kali/Desktop/anonymizer/menu.sh'
+Icon=security-high
+Terminal=false
+Categories=System;Security;Utility;
